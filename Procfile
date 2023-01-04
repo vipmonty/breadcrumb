@@ -1,0 +1,1 @@
+web gunicorn breadcrumb_app.wsgi --log-file -
